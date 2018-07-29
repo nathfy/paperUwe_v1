@@ -8,7 +8,7 @@ Please install https://www.anaconda.com/download/ and then open the notebook in 
 ### Changes to get the essay into a form that can be used for a research paper submission - Notes
 Azure is OK.
 - ~~Don't forget to describe data (a sample of data provided, say a row, should be described in the paper).~~
-- ~~ANN, do you mean classic neural networks or those classified for deep learning (I'll help in both, my guess is that we might go for a tensorflow implementation for a deep learning one — and I will do that) — give me a week time. ~~
+- ~~ANN, do you mean classic neural networks or those classified for deep learning (I'll help in both, my guess is that we might go for a tensorflow implementation for a deep learning one — and I will do that) — give me a week time.~~
 - ~~Cross-validation (for RF you don't need as randomization is per se a cross-validation approach), for the rest yes, sklearn provides the suitable libraries as in your link.~~ 
 
 
