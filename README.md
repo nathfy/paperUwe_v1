@@ -12,8 +12,7 @@ Azure is OK.
 - ~~Cross-validation (for RF you don't need as randomization is per se a cross-validation approach), for the rest yes, sklearn provides the suitable libraries as in your link.~~ 
 
 
-- ~~Frame the literature review into the kind of business you are dealing with, and its impact
-The - impact of sale retention and the related impact of cancelation on businesses (an example?).~~
+- ~~Frame the literature review into the kind of business you are dealing with, and its impact The - impact of sale retention and the related impact of cancelation on businesses (an example?)~~
 - We need to relate to other works done on this dataset or similar ones — do we have?
 - ~~Expanding the algorithmic solution to include, for instance, Random Forests (and others, say, SVM, NBC) and I will help in Neural Networks.~~ 
 - ~~Remove the justification and literature about ROC and evaluation methods — we’ll just use them and analyze the resulted curves.~~ 
