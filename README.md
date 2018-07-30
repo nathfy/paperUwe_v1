@@ -4,8 +4,8 @@ Predicting product cancellations for sales retention
 ## Running the notebook
 Please install https://www.anaconda.com/download/ and then open the notebooks in Juypter. 
 I've split it into to notebooks:
-- **Investigation and feature selection** - does what it says
-- **Pipeline and prediction cross validation** - The actual pipeline and ML process, this one has a section which will take a long time to run (`Test classifiers - THIS IS SLOW!`)
+- **[Investigation and feature selection](https://github.com/nathfy/paperUwe_v1/blob/develop/Investigation%20and%20feature%20selection.ipynb)** - does what it says
+- **[Pipeline and prediction cross validation](https://github.com/nathfy/paperUwe_v1/blob/develop/Pipeline%20and%20prediction%20cross%20validation.ipynb)** - The actual pipeline and ML process, this one has a section which will take a long time to run (`Test classifiers - THIS IS SLOW!`)
 
 
 ### Changes to get the essay into a form that can be used for a research paper submission - Notes
